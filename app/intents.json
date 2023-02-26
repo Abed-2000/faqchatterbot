@@ -898,7 +898,7 @@
         "howdy"
       ],
       "responses": [
-        "Hey there; how are you?"
+        "Hey there, how are you?"
       ]
     },
     {
@@ -912,7 +912,7 @@
         "I am"
       ],
       "responses": [
-        "I'm happy you could share that with me"
+        "I'm happy you could share that with me."
       ]
     },
     {
@@ -928,7 +928,8 @@
     {
       "tag": "easter_egg7",
       "patterns": [
-        "How much wood would a woodchuck chuck? How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"
+        "How much wood would a woodchuck chuck?",
+        "How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"
       ],
       "responses": [
         "At least one"
@@ -940,7 +941,7 @@
         "Do you love me?"
       ],
       "responses": [
-        "You should be asking yourself that question"
+        "You should be asking yourself that question..."
       ]
     }
   ]
