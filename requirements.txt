@@ -2,3 +2,4 @@ numpy
 nltk
 tflearn
 tensorflow-macos
+#tensorflow  <-- uncomment if on windows and commit 'tensorflow-macos'
