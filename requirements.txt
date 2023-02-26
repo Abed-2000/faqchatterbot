@@ -1,4 +1,4 @@
-nltk
 numpy
-matplotlib
-jmespath
+nltk
+tflearn
+tensorflow-macos
